@@ -31,5 +31,10 @@ This project focuses on developing and evaluating deep learning models for two c
 
 
 ## Results
-- **Task 1**: The notebook includes performance comparisons (accuracy, loss, etc.) for MobileNet and EfficientNetV2 on the CIFAR-100 subset. Visualizations (e.g., training curves, confusion matrices) are provided.
-- **Task 2**: Binary classification results for the selfie dataset, including accuracy and loss metrics.
+- **Task 1**: The notebook includes performance comparisons (accuracy, loss, etc.) for MobileNet (with validation accuracy 55%) and EfficientNetV2 (with validation accuracy 61%) on the CIFAR-100 subset. Visualizations (e.g., training curves, confusion matrices) are provided.
+-MobileNet ![image](https://github.com/user-attachments/assets/fc16d24a-6e02-47a5-abbd-580d3e35dea1)
+
+-EfficientNetV2 ![image](https://github.com/user-attachments/assets/984d8f33-cb1f-4a7f-abd3-ba7d9fc9a305)
+
+- **Task 2**: Binary classification results for the selfie dataset, including accuracy and loss metrics (with 100% validation accuracy).
+![image](https://github.com/user-attachments/assets/d1d69549-5117-49bd-a1b3-f3ff8d557c2f)
